@@ -1,0 +1,354 @@
+{
+  "common": {
+    "months": "meses"
+  },
+  "nav": {
+    "services": "Serviços",
+    "clients": "Clientes",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "hero": {
+    "tagline": "Consultoria especializada em governo eletrônico, comércio eletrônico, blockchain e transformação digital.",
+    "cta": "Entre em Contato"
+  },
+  "services": {
+    "title": "O Que Fazemos",
+    "subtitle": "Expertise profunda em todo o espectro da inovação digital.",
+    "learnMore": "Saiba mais",
+    "egovernment": {
+      "title": "Governo Eletrônico",
+      "desc": "Modernização de serviços públicos com plataformas digitais seguras, centradas no cidadão e soluções de identidade."
+    },
+    "ecommerce": {
+      "title": "Comércio Eletrônico",
+      "desc": "Construção de experiências de comércio escaláveis — de vitrines à infraestrutura de pagamento e fidelização tokenizada."
+    },
+    "blockchain": {
+      "title": "Blockchain",
+      "desc": "Desenvolvimento de contratos inteligentes, design de protocolos, engenharia de tokens e integração Web3."
+    },
+    "transformation": {
+      "title": "Transformação Digital",
+      "desc": "Assessoria estratégica e engenharia prática para levar organizações do legado ao estado da arte."
+    }
+  },
+  "clients": {
+    "title": "Quem Confia em Nós",
+    "subtitle": "Organizações com as quais temos orgulho de trabalhar."
+  },
+  "about": {
+    "title": "Sobre a Worldchain",
+    "text": "Worldchain LLC é uma consultoria na interseção de governo, comércio e tecnologia descentralizada. Fazemos parcerias com organizações visionárias para projetar e entregar soluções digitais — do desenvolvimento de protocolos blockchain e engenharia de contratos inteligentes a plataformas de governo eletrônico em larga escala e infraestrutura de comércio. Nossa equipe traz profunda expertise técnica combinada com visão estratégica para ajudar clientes a navegar as complexidades da transformação digital.",
+    "founder": "Fundada por Russell Castagnaro, a Worldchain se apoia em mais de 20 anos de entrega prática nos setores de governo, comércio e tecnologia emergente. Os estudos de caso e resultados apresentados aqui representam a liderança direta de Russell — desde escalar a plataforma de governo digital do Hawaii (do 43º para o 1º lugar nacional) e lançar a identidade digital do Colorado (mais de 1,8 milhão de usuários), até tornar o ETHDenver lucrativo e co-fundar a Unicorns, Inc. Esse histórico é o alicerce sobre o qual a Worldchain foi construída."
+  },
+  "contact": {
+    "title": "Vamos Conversar",
+    "subtitle": "Pronto para transformar sua organização? Entre em contato."
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  },
+  "servicePage": {
+    "backHome": "Voltar ao Início"
+  },
+  "egovernmentPage": {
+    "title": "Soluções de Governo Eletrônico",
+    "intro": "Ajudamos agências governamentais a modernizar serviços públicos por meio de plataformas digitais seguras e centradas no cidadão. Nossa abordagem transforma céticos em defensores — construindo adoção por meio de valor demonstrado, não por imposição.",
+    "approach": {
+      "title": "Nossa Abordagem",
+      "text": "Projetos de tecnologia governamental falham quando são impostos de cima para baixo. Seguimos um caminho diferente: encontramos os stakeholders com mais a ganhar, entregamos vitórias rápidas que constroem credibilidade e deixamos o sucesso criar demanda. Essa abordagem impulsionou a adoção em dezenas de agências, alcançando milhões de cidadãos."
+    },
+    "caseStudies": {
+      "title": "Resultados Comprovados",
+      "myColorado": {
+        "title": "myColorado — A Identidade Digital Estadual Mais Bem-Sucedida dos EUA",
+        "text": "Lideramos o lançamento e a expansão do myColorado, hoje a identidade digital estadual mais bem-sucedida dos EUA. Quando a COVID chegou, escalamos de 25.000 para 250.000 usuários em um mês, chegando a 750.000 ao fim do verão. Colaboramos com 19 agências de segurança pública para aceitar o myColorado como identificação válida. Integramos a verificação de vacinação contra COVID à identidade digital por menos de US$ 500 mil. Reforçamos a segurança dos agentes ao viabilizar a verificação de identidade sem contato durante abordagens de trânsito. Reconhecidos com o NASCIO State IT Recognition Award e o AAMVA Trailblazer Award pela inovação em identidade digital e segurança pública.",
+        "stat1": "usuários na plataforma",
+        "stat2": "usuários em um mês durante a COVID",
+        "stat3": "agências de segurança pública aceitando identidade digital"
+      },
+      "hawaii": {
+        "title": "Transformação do Governo Digital do Havaí",
+        "text": "Escalamos a plataforma de governo digital do Havaí de startup a nível empresarial ao longo de 13 anos, entregando mais de 132 serviços que processam mais de US$ 2 bilhões anualmente. A avaliação dos serviços governamentais do Havaí passou do 43º para o 1º lugar no país. Migramos mais de 250 sites estaduais para a AWS em 12 meses, em múltiplas plataformas de CMS, mantendo o acesso público ininterrupto.",
+        "stat1": "melhoria no ranking nacional",
+        "stat2": "serviços digitais entregues",
+        "stat3": "transações anuais processadas",
+        "stat4": "prêmios nacionais e internacionais"
+      },
+      "ebench": {
+        "title": "Transformação de Mandados com o eBench",
+        "text": "O backlog de 90.000 mandados do Havaí havia derrotado duas iniciativas anteriores e uma comissão de alto nível. Identificamos os primeiros adotantes com problemas específicos, entregamos vitórias rápidas e deixamos o sucesso ganhar impulso. O Gabinete do Procurador-Geral, inicialmente o maior cético, realizou uma celebração dizendo: 'Nunca vi agências governamentais trabalharem juntas assim.'"
+      }
+    },
+    "serviceCatalog": {
+      "title": "Catálogo de Serviços: 132+ Serviços de Governo Digital",
+      "subtitle": "Construímos e operamos a plataforma de governo digital abrangente do Havaí — entregando serviços em todos os ramos e níveis de governo. Veja como é uma plataforma de governo eletrônico em escala completa.",
+      "categories": {
+        "licensing": {
+          "title": "Empresas e Licenciamento",
+          "desc": "Registro de empresas, declarações anuais, renovações de licenças profissionais, licenciamento de seguros e alvarás comerciais."
+        },
+        "payments": {
+          "title": "Pagamentos e Tributação",
+          "desc": "Imposto sobre propriedade, registro de veículos, contas de serviços públicos, declaração de impostos e mais de US$ 2 bilhões em processamento anual de pagamentos governamentais."
+        },
+        "records": {
+          "title": "Registros Civis",
+          "desc": "Certidões de nascimento, óbito e casamento com sistemas de pedido e rastreamento reconhecidos nacionalmente pela inovação."
+        },
+        "permits": {
+          "title": "Alvarás e Conformidade",
+          "desc": "Alvarás de construção, licenças ambientais, inspeções de elevadores, segurança ocupacional e operações portuárias e aeroportuárias."
+        },
+        "elections": {
+          "title": "Eleições e Justiça",
+          "desc": "Votação por correio online, pagamento de multas de trânsito, processamento de mandados e coordenação de voluntários do judiciário."
+        },
+        "safety": {
+          "title": "Segurança Pública e Saúde",
+          "desc": "Pesquisa de antecedentes criminais, cadastro de crimes sexuais, cannabis medicinal, benefícios alimentares (SNAP) e inscrição no Medicaid."
+        }
+      }
+    },
+    "awards": {
+      "title": "Plataforma Premiada",
+      "subtitle": "A plataforma eHawaii.gov conquistou 42 prêmios nacionais e internacionais reconhecendo a inovação no governo digital.",
+      "items": {
+        "w3_2017": {
+          "name": "W3 Award & Best Government Website",
+          "desc": "Hawaii State Public Library System e Annual Business Filings reconhecidos pela Web Marketing Association."
+        },
+        "dgaa_2016": {
+          "name": "Digital Government Achievement Award",
+          "desc": "Vital Records Ordering and Tracking System — vencedor na categoria Driving Digital Government."
+        },
+        "nacm_2016": {
+          "name": "NACM Top 10 Court Technology Solutions",
+          "desc": "Hawaii State Judiciary reconhecido pela inovação em tecnologia judiciária."
+        },
+        "mobile_2015": {
+          "name": "Best Government Mobile Application",
+          "desc": "Web Marketing Association MobileWebAwards para HIOSH Inspections e Hawaii Sex Offender Search."
+        },
+        "bestWeb_2014": {
+          "name": "Best State Website in America",
+          "desc": "Center for Digital Government Best of the Web — Hawaii.gov reconhecido como o melhor do país."
+        },
+        "bestGov_2014": {
+          "name": "Best Government Website & Members' Choice",
+          "desc": "Web Marketing Association, National Association of Government Webmasters, Interactive Media Awards."
+        },
+        "dgaa_marriage_2013": {
+          "name": "Digital Government Achievement Award (x2)",
+          "desc": "Electronic Marriage & Civil Union Registration System e Commercial Fishing License Services."
+        },
+        "pinnacle_2013": {
+          "name": "NAGW Pinnacle Award & Davey Gold",
+          "desc": "eHawaii.gov reconhecido pela excelência em design web governamental e serviços digitais."
+        },
+        "nascio_2012": {
+          "name": "NASCIO Finalist & State Excellence Award",
+          "desc": "Aplicativos móveis para Annual Business Filings — reconhecidos pela NASCIO, IACA e pelo Estado do Havaí."
+        },
+        "ebench_2010": {
+          "name": "Bright Ideas Award & DGAA Government-to-Government",
+          "desc": "Hawaii Electronic Bench Warrants — a transformação do backlog de mandados que converteu céticos em defensores."
+        },
+        "nascio_2021": {
+          "name": "NASCIO State IT Recognition Award",
+          "desc": "Reforçando a segurança dos agentes de segurança pública com Colorado Digital ID — verificação de identidade sem contato melhorando a segurança dos agentes durante abordagens de trânsito."
+        },
+        "aamva_2021": {
+          "name": "AAMVA Trailblazer Award",
+          "desc": "Aceitação policial do Colorado Digital ID sem contato — reconhecido pela inovação em identidade digital e segurança pública."
+        }
+      }
+    },
+    "compliance": {
+      "title": "Conformidade e Segurança"
+    },
+    "cta": "Pronto para modernizar seus serviços governamentais?"
+  },
+  "ecommercePage": {
+    "title": "Soluções de Comércio Eletrônico",
+    "intro": "Da infraestrutura de pagamento e processamento de transações a plataformas de comércio full-stack, construímos sistemas escaláveis que processam bilhões em volume anual — com a conformidade e a segurança exigidas por setores regulamentados.",
+    "approach": {
+      "title": "Nossa Abordagem",
+      "text": "Trazemos ampla experiência em processamento de pagamentos, conformidade financeira e engenharia de plataformas de comércio. Seja processamento de cartão de crédito, transações ACH ou trilhos de pagamento cripto emergentes, projetamos sistemas que escalam com confiança enquanto atendem aos mais rigorosos requisitos regulatórios."
+    },
+    "caseStudies": {
+      "title": "Resultados Comprovados",
+      "wampei": {
+        "title": "Wampei — Pagamentos Digitais Peer-to-Peer",
+        "text": "Co-fundamos uma plataforma de pagamentos digitais peer-to-peer para expandir pagamentos eletrônicos a empresas e pessoas mal atendidas pelo sistema bancário tradicional. Construímos a infraestrutura central de pagamentos na AWS com suporte a faturas, cartões de crédito e transações ACH, com segurança, confiabilidade e controles operacionais para fluxos financeiros regulamentados."
+      },
+      "charity": {
+        "title": "4Charity.com — Primeira Plataforma de Doações Online",
+        "text": "Construímos a plataforma pioneira de doações online, permitindo doações por cartão de crédito e eCheck para qualquer organização sem fins lucrativos 501(c)(3) nos EUA. A plataforma tornou-se o núcleo da Network for Good (adquirida). Desenvolvemos fluxos de trabalho para doações aconselhadas por doadores, contabilidade de fundos e desembolsos a organizações sem fins lucrativos com processamento integrado de cartão de crédito e pagamentos armazenados."
+      },
+      "hawaii": {
+        "title": "Processamento de Pagamentos do Estado do Havaí",
+        "text": "Construímos e operamos a infraestrutura de pagamento digital do Estado do Havaí, processando mais de US$ 2 bilhões anualmente em mais de 132 serviços governamentais.",
+        "stat1": "em volume anual de transações",
+        "stat2": "processamento de transações em conformidade"
+      }
+    },
+    "compliance": {
+      "title": "Padrões e Conformidade de Pagamento"
+    },
+    "cta": "Pronto para construir ou escalar sua plataforma de comércio?"
+  },
+  "blockchainPage": {
+    "title": "Blockchain e Web3",
+    "intro": "Desenvolvimento prático de contratos inteligentes, design de protocolos, engenharia de tokens e governança de DAO — respaldado por ampla experiência construindo e assessorando no ecossistema Web3.",
+    "capabilities": {
+      "title": "Capacidades",
+      "item1": "Desenvolvimento de contratos inteligentes (Solidity) — sistemas NFT, contratos de staking, infraestrutura de pagamento",
+      "item2": "Integrações Web3 — conectores de carteira, exibição de NFTs (ERC-721/ERC-1155), votação no Snapshot",
+      "item3": "Engenharia de tokens e design de tokenomics",
+      "item4": "Sistemas de governança DAO e estruturas cooperativas",
+      "item5": "Desenvolvimento de plugins — integrações Web3 para WooCommerce e WordPress"
+    },
+    "experience": {
+      "title": "Experiência",
+      "ethdenver": {
+        "title": "ETHDenver / SporkDAO",
+        "text": "Lideramos as operações do maior evento de tecnologia open-source do mundo. Transformamos 7 anos de prejuízos em um superávit de US$ 1,3 milhão no primeiro ano, implementando controles financeiros, acompanhamento de KPIs e governança enquanto preservávamos a cultura comunitária. Supervisionamos integrações tecnológicas, contratos e parcerias para um orçamento de US$ 6 milhões.",
+        "stat1": "participantes",
+        "stat2": "países representados"
+      },
+      "bufficorn": {
+        "title": "Bufficorn Ventures",
+        "text": "Lideramos as operações de um fundo de venture capital focado em startups de tecnologia emergente. Orientamos mais de 50 empresas do portfólio na integração de blockchain e IA em produtos e operações, priorizando casos de uso de alto impacto com ROI claro. Desenvolvemos frameworks para avaliar prontidão tecnológica e estratégia de go-to-market."
+      },
+      "unicorns": {
+        "title": "Unicorns, Inc.",
+        "text": "Co-fundamos e lideramos uma plataforma de tecnologia B2B que fornece infraestrutura de contas corporativas. Construímos uma equipe distribuída em 5 países com desenvolvimento AI-first, aproveitando IA generativa para desenvolvimento de produtos, operações e soluções para clientes.",
+        "stat1": "clientes empresariais",
+        "stat2": "usuários finais"
+      },
+      "sporkdao": {
+        "title": "Governança SporkDAO",
+        "text": "Membro do Conselho da Associação Cooperativa do Colorado, com mais de 20.000 membros. Implementamos sistemas de governança baseados em DAO e assessoramos sobre atividades de votação e associação."
+      }
+    },
+    "technical": {
+      "title": "Stack Técnica"
+    },
+    "cta": "Pronto para construir na Web3?"
+  },
+  "transformationPage": {
+    "title": "Transformação Digital",
+    "intro": "Mais de 20 anos escalando a adoção de tecnologia nos ambientes mais desafiadores: organizações com processos entrincheirados, prioridades concorrentes e longas memórias de projetos fracassados. Nosso padrão: encontrar os stakeholders com mais a ganhar, entregar vitórias rápidas que constroem credibilidade e deixar o sucesso criar demanda em vez de impor mandatos.",
+    "approach": {
+      "title": "Nossa Abordagem",
+      "text": "A transformação digital falha quando é tratada como um projeto de tecnologia. Focamos em adoção, governança e resultados mensuráveis. Construímos capacidade duradoura — criando programas de capacitação, trilhas de aprendizagem e frameworks de governança que sustentam a qualidade muito depois de nossa saída."
+    },
+    "caseStudies": {
+      "title": "Resultados Comprovados",
+      "ai": {
+        "title": "Implantação de IA em 57 Call Centers",
+        "text": "Migramos 57 call centers do Genesys para o Amazon Connect em 4 meses, implantando soluções de IA omnichannel que reduziram o tempo de atendimento em 40%. Não por imposição, mas provando o valor centro a centro até que a demanda impulsionasse a expansão.",
+        "stat1": "call centers migrados",
+        "stat2": "redução no tempo de atendimento",
+        "stat3": "prazo total de implantação"
+      },
+      "skeptic": {
+        "title": "Transformando Céticos em Defensores",
+        "text": "O Departamento de Receita do Colorado não queria nossa plataforma. Eles tinham seu próprio fornecedor e o escritório do Governador estava pressionando pela adoção. Em vez de forçar a questão, negociamos: não competiríamos se eles se tornassem compatíveis com dispositivos móveis. 18 meses depois, eram nosso segundo maior parceiro e trouxeram a Segurança Pública consigo."
+      },
+      "ethdenver": {
+        "title": "Transformação Financeira do ETHDenver",
+        "text": "Transformamos 7 anos de prejuízos em um superávit de US$ 1,3 milhão no primeiro ano. Implementamos controles financeiros, acompanhamento de KPIs e governança enquanto preservávamos a cultura comunitária que tornava o evento bem-sucedido.",
+        "stat1": "superávit no primeiro ano lucrativo",
+        "stat2": "pontuação NPS mantida"
+      },
+      "culture": {
+        "title": "Transformação da Cultura de Engenharia",
+        "text": "Transformamos a cultura de engenharia do Havaí de um desenvolvimento isolado e baseado no medo para uma organização colaborativa e focada em entregas. Dobramos a receita de US$ 2 milhões para US$ 4 milhões. Criamos programas de desenvolvimento de capacidades, treinamento de capacitação e trilhas de aprendizagem que sustentaram a qualidade por mais de uma década. Eleita Melhor Empresa para Trabalhar por quatro anos pela Hawaii Business Magazine."
+      }
+    },
+    "platforms": {
+      "title": "Plataformas e Ferramentas"
+    },
+    "cta": "Pronto para transformar sua organização?"
+  },
+  "unicornsPage": {
+    "title": "MyUnicornAccount",
+    "tagline": "Sua marca. Uma conta. Toda experiência.",
+    "intro": "Uma plataforma de fidelidade e associação que integra completamente pagamentos em stablecoin, entrada e saída de cripto (onramping/offramping) e uso não nativo de Web3. O Unicorn transforma fidelidade e associação em um ativo reutilizável — um portal com sua marca que potencializa cada experiência da marca sem forçar os clientes a aprender algo novo.",
+    "metrics": {
+      "title": "Principais Métricas",
+      "users": "usuários integrados no ETHDenver",
+      "onboarding": "tempo de onboarding (antes eram 18 min)",
+      "retention": "retenção em 90 dias (vs <5% da média do setor)",
+      "cac": "redução nos custos de aquisição de clientes",
+      "arr": "ARR em 2025",
+      "recurring": "receita de assinaturas recorrentes"
+    },
+    "problem": {
+      "title": "O Problema",
+      "friction": {
+        "title": "O Atrito Mata a Conversão",
+        "text": "Cada etapa extra faz usuários desistirem. Logins de terceiros, downloads de aplicativos, criação de conta — cada um é um ponto de abandono. As marcas assistem a potenciais clientes desaparecerem antes mesmo de interagirem."
+      },
+      "blindness": {
+        "title": "A Falta de Visibilidade Mata a Otimização",
+        "text": "Mesmo quando os usuários convertem, as marcas não conseguem ver o que está funcionando. Ferramentas desconectadas fragmentam a jornada do cliente. Sem identidade unificada e atribuição real, você gasta em engajamento que não consegue medir ou otimizar."
+      }
+    },
+    "solution": {
+      "title": "A Solução: Portal Unicorn com Sua Marca",
+      "text": "O Unicorn oferece às marcas um único ponto de entrada confiável para seus membros. Um endereço. Uma conta. Sem phishing. Sem confusão. O onboarding leva cerca de 30 segundos. As marcas podem incluir qualquer combinação de ferramentas, serviços ou aplicativos — e mudar a experiência sem escrever código.",
+      "members": {
+        "title": "Para Membros (Atrito → Fluidez)",
+        "item1": "Conta com marca instantânea — sem logins de terceiros, sem downloads de aplicativos",
+        "item2": "Sempre saiba o que fazer a seguir — nunca se sinta perdido",
+        "item3": "Propriedade perfeita — colecionáveis, credenciais e recompensas que realmente ficam com eles",
+        "item4": "Tudo com um toque — pagamentos, check-ins, acesso com complexidade invisível"
+      },
+      "brands": {
+        "title": "Para Marcas (Falta de Visibilidade → Clareza)",
+        "item1": "Identidade unificada do cliente — um perfil em cada ponto de contato",
+        "item2": "Atribuição real — veja o que está funcionando e onde as pessoas abandonam",
+        "item3": "Ferramentas de design de experiência — crie, teste e otimize toda a jornada",
+        "item4": "Privacidade por design — visibilidade total sem coletar dados pessoais"
+      }
+    },
+    "technology": {
+      "title": "Tecnologia",
+      "text": "Construída sobre arquitetura moderna de abstração de conta, cada usuário recebe uma identidade digital segura e portátil que funciona em 12 redes de produção. A complexidade é invisível: os usuários tocam um botão e já estão dentro. A infraestrutura gerencia chaves, patrocínio de transações e identidade multiplataforma — tudo com a marca do cliente."
+    },
+    "caseStudies": {
+      "title": "Implantações Comprovadas",
+      "ethdenver": {
+        "title": "ETHDenver 2025 — 20.000+ Participantes",
+        "text": "Potencializamos a experiência de onboarding da maior conferência de tecnologia do gênero na América do Norte. Assinamos um contrato plurianual antes mesmo de o evento terminar.",
+        "stat1": "redução no tempo de onboarding",
+        "stat2": "retenção (vs <5% do setor)",
+        "stat3": "usuários integrados"
+      },
+      "bitbasel": {
+        "title": "BitBasel Miami — Fingerprints of Humanity",
+        "text": "Transformamos os participantes em artistas na Miami Art Week. Os participantes adicionaram arte a uma parede comunitária, tiraram uma foto e criaram um colecionável digital em segundos — sem downloads de aplicativos ou criação de conta. Toda a parede foi arquivada e enviada à Lua via AstroGLPH."
+      },
+      "protocols": {
+        "title": "Polygon e Arbitrum",
+        "text": "Integramos usuários não familiarizados com cripto com segurança pela primeira vez — sem golpes, sem conhecimento prévio necessário. Demonstramos que a plataforma pode tornar a infraestrutura Web3 invisível para usuários convencionais."
+      },
+      "undp": {
+        "title": "Nações Unidas (UNDP)",
+        "text": "Apoiamos o financiamento de projetos solares internacionais por meio da plataforma, provando que o modelo funciona para casos de uso institucionais globais além das marcas de consumo."
+      }
+    },
+    "trustedBy": {
+      "title": "Clientes da Plataforma"
+    },
+    "worldchainRole": {
+      "title": "O Papel da Worldchain",
+      "text": "O CTO da Worldchain, Russell Castagnaro, co-fundou a Unicorns, Inc. e atua como CTO, trazendo o rigor operacional do ETHDenver, a expertise em eCommerce de uma saída bem-sucedida em pagamentos (Wampei) e a experiência em identidade da implantação da identidade digital do Colorado para 2 milhões de residentes. A profunda expertise da Worldchain em governo eletrônico, blockchain e transformação digital impulsiona diretamente a arquitetura da plataforma, o framework de conformidade e a estratégia de go-to-market."
+    },
+    "cta": "Saiba mais sobre a plataforma"
+  }
+}

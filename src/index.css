@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --navy: #0b1628;
+  --navy-light: #132240;
+  --gold: #c9a84c;
+  --gold-light: #e2c87a;
+  --blue: #2a6496;
+  --blue-light: #4a9ad4;
+  --text: #e0e4ec;
+  --text-muted: #8a94a8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background-color: var(--navy);
+  color: var(--text);
+  line-height: 1.6;
+  min-width: 320px;
+}
+
+a {
+  color: var(--gold);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--gold-light);
+}
